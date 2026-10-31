@@ -1,0 +1,5 @@
+host, bsbsb.top, 节点选择
+host, api.biliapi.com, reject
+host, app.biliapi.com, reject
+host, api.biliapi.net, reject
+host, app.biliapi.net, reject
